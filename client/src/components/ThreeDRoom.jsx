@@ -21,6 +21,15 @@ const ThreeDRoom = () => {
   const power = useVaccumCleanerPower((state) => state.power);
   const updatePower = useVaccumCleanerPower((state) => state.updatePower);
 
+  let jmode, jpower, jstatus;
+
+  useEffect(() => {
+    jmode = mode;
+    jpower = power;
+    jstatus = status;
+  }, [mode, power, status]);
+
+
   let botpathindex = 0;
   let frameno = 0;
 
@@ -178,7 +187,7 @@ const ThreeDRoom = () => {
         physicsWorld.step();
 
         if (robotPhysicsBody && robotRef.current) {
-          if ( frameno % 5 === 0 && (mode === BotStatus.MODE.ECO || mode === BotStatus.MODE.POWER)) {
+          if (frameno % 25 === 0 && (jmode === BotStatus.MODE.ECO || jmode === BotStatus.MODE.POWER)) {
             robotPhysicsBody.setTranslation(botpath[botpathindex], true);
             botpathindex++;
             if (botpathindex >= botpath.length) botpathindex = 0;
@@ -193,11 +202,11 @@ const ThreeDRoom = () => {
       animate();
 
       // === HANDLE ARROW KEY EVENTS VIA PHYSICS ===
-      const moveStep = 0.1;
+      const moveStep = 0.05;
       handleKeyDown = (event) => {
         // Get the current translation from the physics body
-        console.log(mode);
-        if (mode !== BotStatus.MODE.MANUAL) return;
+        console.log(jmode)
+        if (jmode !== BotStatus.MODE.MANUAL) return;
         botpathindex = 0;
         const currentPos = robotPhysicsBody.translation();
         let newX = currentPos.x;

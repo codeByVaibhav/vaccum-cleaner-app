@@ -1,3 +1,4 @@
+import React from 'react';
 import { create } from 'zustand'
 
 export const BotStatus = Object.freeze({
@@ -18,20 +19,26 @@ export const BotStatus = Object.freeze({
 export const useVaccumCleanerStatus = create((set) => ({
     status: BotStatus.ONLINE,
     updateStatus: (status) => set((state) => {
-        return status
+        return {
+            ...state, status
+        }
     })
 }))
 
 export const useVaccumCleanerMode = create((set) => ({
     mode: BotStatus.MODE.ECO,
     updateMode: (mode) => set((state) => {
-        return mode
+        return {
+            ...state, mode
+        }
     })
 }))
 
 export const useVaccumCleanerPower = create((set) => ({
     power: BotStatus.ONLINE,
     updatePower: (power) => set((state) => {
-        return power
+        return {
+            ...state, power
+        }
     })
 }))

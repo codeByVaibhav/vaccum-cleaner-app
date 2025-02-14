@@ -7,7 +7,7 @@ const RemoteController = () => {
   const updateVaccumStatus = useVaccumCleanerStatus((state) => state.updateStatus);
 
   const mode = useVaccumCleanerMode((state) => state.mode);
-  const updateMode = useVaccumCleanerMode((state) => {console.log(state); return state.updateMode});
+  const updateMode = useVaccumCleanerMode((state) => state.updateMode);
 
   const power = useVaccumCleanerPower((state) => state.power);
   const updatePower = useVaccumCleanerPower((state) => state.updatePower);
