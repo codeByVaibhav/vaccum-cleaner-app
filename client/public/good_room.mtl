@@ -1,0 +1,323 @@
+# Blender 4.3.2 MTL File: 'good_room.blend'
+# www.blender.org
+
+newmtl Aluminium
+Ns 810.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.233016 0.233016 0.233016
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Book
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/5b106c26cc7e5c429ba4e5de573d0dce.jpg
+
+newmtl Book2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/finalimage.jpg
+
+newmtl Carpet
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/drive-download-20210610T021657Z-001/Fabric_Rug_006_COLOR.jpg
+map_Ns C:/Users/kv/Downloads/32-livingroom_fbx/Texture/drive-download-20210610T021657Z-001/Fabric_Rug_006_ROUGH.jpg
+
+newmtl Cermin
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Cusion
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Emmision
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Floor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/ParquetFlooring05_MR_2K/ParquetFlooring05_2K_BaseColor.png
+
+newmtl Gelas
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Marble09_MR_2K/Marble09_2K_BaseColor.png
+map_Ns C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Marble09_MR_2K/Marble09_2K_Roughness.png
+
+newmtl InsideBook
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.295692 0.295692 0.295692
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Jam
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/png-clipart-black-analog-clock-at-11-55-clock-face-clocks-angle-text.png
+
+newmtl Kaca
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl KerangkaLemari
+Ns 250.000000
+Ka 0.800000 0.800000 0.800000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Lemari
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Wood09_MR_2K/Wood09_2K_BaseColor.png
+map_Ns C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Wood09_MR_2K/Wood09_2K_Roughness.png
+
+newmtl Meja
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Wood09_MR_2K/Wood09_2K_BaseColor.png
+map_Ns C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Wood09_MR_2K/Wood09_2K_Roughness.png
+
+newmtl Netflix
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Netflix_TV_interface_test_wm_1594887506248.jpg
+
+newmtl Picture
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Best-Abstract-Art-course-tutorial-class-certification-training-online-scaled.jpg
+
+newmtl Picture2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/639170_18090338_3255399_0cc8cc8e_image.jpg
+
+newmtl Picture3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Ocean_Dreams_-_Contemporary_Abstract_Painting_7aa795bd-f372-40cf-b6c0-99a7b985aae4.jpg
+
+newmtl Picture4
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/On-Impulse-36x36-1-1200x1200.jpeg
+
+newmtl PictureBorder
+Ns 250.000000
+Ka 0.700000 0.700000 0.700000
+Kd 0.015995 0.015995 0.015995
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl SideTegel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.711822 0.736521 0.787399
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Side_Wall
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Concrete_Wall/Concrete_Wall_009_basecolor.jpg
+map_Ns C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Concrete_Wall/Concrete_Wall_009_roughness.jpg
+
+newmtl Sofa
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Sofa_Kecil
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.486897 0.486897 0.486897
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl TV
+Ns 159.999985
+Ka 0.900000 0.900000 0.900000
+Kd 0.018849 0.018849 0.018849
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl TiangMeja
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Tree
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Mapple/Maple_Bark/Maple_Bark_2_SPEC.png
+map_Bump -bm 1.000000 C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Mapple/Maple_Bark/Maple_Bark_2_NRM.png
+
+newmtl Tree07_4K
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Tree07_4K.png
+map_d C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Tree07_4K.png
+
+newmtl Tree_Branch
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Mapple/Tree Branch.png
+map_d C:/Users/kv/Downloads/32-livingroom_fbx/Texture/Mapple/Tree Branch.png
+
+newmtl Wall
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Users/kv/Downloads/32-livingroom_fbx/Texture/WhiteStuccoWall01_MR_2K/WhiteStuccoWall01_2K_Roughness.png
+
+newmtl Wall_Down
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/kv/Downloads/32-livingroom_fbx/Texture/White Brick/WhiteBrickWall01_2K_BaseColor.png
+map_Ns C:/Users/kv/Downloads/32-livingroom_fbx/Texture/White Brick/WhiteBrickWall01_2K_Roughness.png
